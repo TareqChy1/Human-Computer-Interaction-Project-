@@ -20,21 +20,21 @@
   <li>Flex Sensor (inside a glove)</li>
   <li>Arduino Uno (board)</li>
 </ul>
-<img src="listofcom.PNG">
+<img src="images/listofcom.PNG">
 
 ## Conceptual Diagram
 <p>Using a tangible user interface we recognize two gestures.  Physically squeezing the heart, affects the tree's growth on screen.  Switching between the two gestures allows 
 the user to control the tree's growth and make each tree grow in a different and distinct way.  Once we stop squeezing the heart, the tree will fall apart.</p>
 
 ### Gestures
-<img src="gesture1.PNG">
+<img src="images/gesture1.PNG">
 <p>Gesture I – pressing the heart slowly. Creating constant stable heart beats, will grow a healthy green tree. we stop squeezing the heart, the tree  will fall apart.</p>
-<img src="gesture2.PNG">
+<img src="images/gesture2.PNG">
 <p>Gesture II – pressing the heart rapidly. Creating fast heart beats, will grow a dried and short looking tree.</p>
 
 ## Physical Diagram
 ### Arduino
-<img src="arduino.PNG">
+<img src="images/arduino.PNG">
 
 ### Design Flow
-<img src="phy1.PNG">
+<img src="images/phy1.PNG">
