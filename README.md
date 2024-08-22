@@ -1,4 +1,4 @@
-# Human-Computer-Interaction-Project-
+# Heartbeat Visualization through Tangible Interaction
 
 ## Motivation
 <ul>
